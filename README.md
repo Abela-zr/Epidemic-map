@@ -1,6 +1,6 @@
 # Epidemic-map
 
-##  Author: 非鱼子焉
+##  Author: Rui Zhu
 ###  Creation_time: 2020.07.03
 ### Content: Mapping world epidemics with python's pyecharts module
 ### Blog: https://zhu-rui.blog.csdn.net/article/details/105654677
